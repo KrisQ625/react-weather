@@ -7,6 +7,7 @@ function App() {
       <h2>
         <Weather />
       </h2>
+       <p> <a href =" https://github.com/KrisQ625/react-weather/tree/main/src">Open source code</a> by Kristina Vujnovac</p>
     </div>
     
   );
